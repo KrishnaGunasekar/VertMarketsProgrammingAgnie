@@ -1,0 +1,12 @@
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services.Contracts\obj\Debug\netcoreapp3.1\VetMarkets.Data.Services.Contracts.csprojAssemblyReference.cache
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services.Contracts\obj\Debug\netcoreapp3.1\VetMarkets.Data.Services.Contracts.AssemblyInfoInputs.cache
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services.Contracts\obj\Debug\netcoreapp3.1\VetMarkets.Data.Services.Contracts.AssemblyInfo.cs
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services.Contracts\obj\Debug\netcoreapp3.1\VetMarkets.Data.Services.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services.Contracts\bin\Debug\netcoreapp3.1\VetMarkets.Data.Services.Contracts.deps.json
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services.Contracts\bin\Debug\netcoreapp3.1\VetMarkets.Data.Services.Contracts.dll
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services.Contracts\bin\Debug\netcoreapp3.1\VetMarkets.Data.Services.Contracts.pdb
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services.Contracts\bin\Debug\netcoreapp3.1\VetMarkets.Models.dll
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services.Contracts\bin\Debug\netcoreapp3.1\VetMarkets.Models.pdb
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services.Contracts\obj\Debug\netcoreapp3.1\VetMarkets.Data.Services.Contracts.csproj.CopyComplete
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services.Contracts\obj\Debug\netcoreapp3.1\VetMarkets.Data.Services.Contracts.dll
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services.Contracts\obj\Debug\netcoreapp3.1\VetMarkets.Data.Services.Contracts.pdb

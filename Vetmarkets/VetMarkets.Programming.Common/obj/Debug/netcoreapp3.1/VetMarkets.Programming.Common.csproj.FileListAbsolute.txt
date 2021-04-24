@@ -1,0 +1,12 @@
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Programming.Common\bin\Debug\netcoreapp3.1\VetMarkets.Programming.Common.deps.json
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Programming.Common\bin\Debug\netcoreapp3.1\VetMarkets.Programming.Common.dll
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Programming.Common\bin\Debug\netcoreapp3.1\VetMarkets.Programming.Common.pdb
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Programming.Common\bin\Debug\netcoreapp3.1\VetMarkets.Models.dll
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Programming.Common\bin\Debug\netcoreapp3.1\VetMarkets.Models.pdb
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Programming.Common\obj\Debug\netcoreapp3.1\VetMarkets.Programming.Common.csprojAssemblyReference.cache
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Programming.Common\obj\Debug\netcoreapp3.1\VetMarkets.Programming.Common.AssemblyInfoInputs.cache
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Programming.Common\obj\Debug\netcoreapp3.1\VetMarkets.Programming.Common.AssemblyInfo.cs
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Programming.Common\obj\Debug\netcoreapp3.1\VetMarkets.Programming.Common.csproj.CoreCompileInputs.cache
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Programming.Common\obj\Debug\netcoreapp3.1\VetMarkets.Programming.Common.csproj.CopyComplete
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Programming.Common\obj\Debug\netcoreapp3.1\VetMarkets.Programming.Common.dll
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Programming.Common\obj\Debug\netcoreapp3.1\VetMarkets.Programming.Common.pdb

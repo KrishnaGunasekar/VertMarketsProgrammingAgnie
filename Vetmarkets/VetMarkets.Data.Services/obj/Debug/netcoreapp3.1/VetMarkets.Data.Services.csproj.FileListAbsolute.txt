@@ -1,0 +1,16 @@
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services\bin\Debug\netcoreapp3.1\VetMarkets.Data.Services.deps.json
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services\bin\Debug\netcoreapp3.1\VetMarkets.Data.Services.dll
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services\bin\Debug\netcoreapp3.1\VetMarkets.Data.Services.pdb
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services\bin\Debug\netcoreapp3.1\VetMarkets.Data.Services.Contracts.dll
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services\bin\Debug\netcoreapp3.1\VetMarkets.Models.dll
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services\bin\Debug\netcoreapp3.1\VetMarkets.Programming.Common.dll
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services\bin\Debug\netcoreapp3.1\VetMarkets.Data.Services.Contracts.pdb
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services\bin\Debug\netcoreapp3.1\VetMarkets.Models.pdb
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services\bin\Debug\netcoreapp3.1\VetMarkets.Programming.Common.pdb
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services\obj\Debug\netcoreapp3.1\VetMarkets.Data.Services.csprojAssemblyReference.cache
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services\obj\Debug\netcoreapp3.1\VetMarkets.Data.Services.AssemblyInfoInputs.cache
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services\obj\Debug\netcoreapp3.1\VetMarkets.Data.Services.AssemblyInfo.cs
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services\obj\Debug\netcoreapp3.1\VetMarkets.Data.Services.csproj.CoreCompileInputs.cache
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services\obj\Debug\netcoreapp3.1\VetMarkets.Data.Services.csproj.CopyComplete
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services\obj\Debug\netcoreapp3.1\VetMarkets.Data.Services.dll
+C:\Users\Krishna\source\repos\Vetmarkets\VetMarkets.Data.Services\obj\Debug\netcoreapp3.1\VetMarkets.Data.Services.pdb

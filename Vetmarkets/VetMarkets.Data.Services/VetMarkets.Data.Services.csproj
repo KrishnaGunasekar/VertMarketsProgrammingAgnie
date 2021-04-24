@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VetMarkets.Data.Services.Contracts\VetMarkets.Data.Services.Contracts.csproj" />
+    <ProjectReference Include="..\VetMarkets.Models\VetMarkets.Models.csproj" />
+    <ProjectReference Include="..\VetMarkets.Programming.Common\VetMarkets.Programming.Common.csproj" />
+  </ItemGroup>
+
+</Project>

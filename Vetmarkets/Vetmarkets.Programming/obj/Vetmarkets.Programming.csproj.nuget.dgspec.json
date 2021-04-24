@@ -1,0 +1,585 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\Vetmarkets.Programming\\Vetmarkets.Programming.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Business.Services.Contracts\\VetMarkets.Business.Services.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Business.Services.Contracts\\VetMarkets.Business.Services.Contracts.csproj",
+        "projectName": "VetMarkets.Business.Services.Contracts",
+        "projectPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Business.Services.Contracts\\VetMarkets.Business.Services.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Krishna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Business.Services.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Krishna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Models\\VetMarkets.Models.csproj": {
+                "projectPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Models\\VetMarkets.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Business.Services\\VetMarkets.Business.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Business.Services\\VetMarkets.Business.Services.csproj",
+        "projectName": "VetMarkets.Business.Services",
+        "projectPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Business.Services\\VetMarkets.Business.Services.csproj",
+        "packagesPath": "C:\\Users\\Krishna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Business.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Krishna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Business.Services.Contracts\\VetMarkets.Business.Services.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Business.Services.Contracts\\VetMarkets.Business.Services.Contracts.csproj"
+              },
+              "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Data.Services.Contracts\\VetMarkets.Data.Services.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Data.Services.Contracts\\VetMarkets.Data.Services.Contracts.csproj"
+              },
+              "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Data.Services\\VetMarkets.Data.Services.csproj": {
+                "projectPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Data.Services\\VetMarkets.Data.Services.csproj"
+              },
+              "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Models\\VetMarkets.Models.csproj": {
+                "projectPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Models\\VetMarkets.Models.csproj"
+              },
+              "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Programming.Common\\VetMarkets.Programming.Common.csproj": {
+                "projectPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Programming.Common\\VetMarkets.Programming.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Data.Services.Contracts\\VetMarkets.Data.Services.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Data.Services.Contracts\\VetMarkets.Data.Services.Contracts.csproj",
+        "projectName": "VetMarkets.Data.Services.Contracts",
+        "projectPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Data.Services.Contracts\\VetMarkets.Data.Services.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Krishna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Data.Services.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Krishna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Models\\VetMarkets.Models.csproj": {
+                "projectPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Models\\VetMarkets.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Data.Services\\VetMarkets.Data.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Data.Services\\VetMarkets.Data.Services.csproj",
+        "projectName": "VetMarkets.Data.Services",
+        "projectPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Data.Services\\VetMarkets.Data.Services.csproj",
+        "packagesPath": "C:\\Users\\Krishna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Data.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Krishna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Data.Services.Contracts\\VetMarkets.Data.Services.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Data.Services.Contracts\\VetMarkets.Data.Services.Contracts.csproj"
+              },
+              "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Models\\VetMarkets.Models.csproj": {
+                "projectPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Models\\VetMarkets.Models.csproj"
+              },
+              "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Programming.Common\\VetMarkets.Programming.Common.csproj": {
+                "projectPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Programming.Common\\VetMarkets.Programming.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Models\\VetMarkets.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Models\\VetMarkets.Models.csproj",
+        "projectName": "VetMarkets.Models",
+        "projectPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Models\\VetMarkets.Models.csproj",
+        "packagesPath": "C:\\Users\\Krishna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Krishna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Orchestrator.Services\\VetMarkets.Orchestrator.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Orchestrator.Services\\VetMarkets.Orchestrator.Services.csproj",
+        "projectName": "VetMarkets.Orchestrator.Services",
+        "projectPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Orchestrator.Services\\VetMarkets.Orchestrator.Services.csproj",
+        "packagesPath": "C:\\Users\\Krishna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Orchestrator.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Krishna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Business.Services.Contracts\\VetMarkets.Business.Services.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Business.Services.Contracts\\VetMarkets.Business.Services.Contracts.csproj"
+              },
+              "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Business.Services\\VetMarkets.Business.Services.csproj": {
+                "projectPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Business.Services\\VetMarkets.Business.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Programming.Common\\VetMarkets.Programming.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Programming.Common\\VetMarkets.Programming.Common.csproj",
+        "projectName": "VetMarkets.Programming.Common",
+        "projectPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Programming.Common\\VetMarkets.Programming.Common.csproj",
+        "packagesPath": "C:\\Users\\Krishna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Programming.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Krishna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Models\\VetMarkets.Models.csproj": {
+                "projectPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Models\\VetMarkets.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\Vetmarkets.Programming\\Vetmarkets.Programming.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\Vetmarkets.Programming\\Vetmarkets.Programming.csproj",
+        "projectName": "Vetmarkets.Programming",
+        "projectPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\Vetmarkets.Programming\\Vetmarkets.Programming.csproj",
+        "packagesPath": "C:\\Users\\Krishna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\Vetmarkets.Programming\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Krishna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Orchestrator.Services\\VetMarkets.Orchestrator.Services.csproj": {
+                "projectPath": "C:\\Users\\Krishna\\source\\repos\\Vetmarkets\\VetMarkets.Orchestrator.Services\\VetMarkets.Orchestrator.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Primitives": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

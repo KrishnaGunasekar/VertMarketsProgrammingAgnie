@@ -1,0 +1,85 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "VetMarkets.Data.Services/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "VetMarkets.Data.Services.Contracts": "1.0.0",
+          "VetMarkets.Models": "1.0.0",
+          "VetMarkets.Programming.Common": "1.0.0"
+        },
+        "runtime": {
+          "VetMarkets.Data.Services.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "VetMarkets.Data.Services.Contracts/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "VetMarkets.Models": "1.0.0"
+        },
+        "runtime": {
+          "VetMarkets.Data.Services.Contracts.dll": {}
+        }
+      },
+      "VetMarkets.Models/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "VetMarkets.Models.dll": {}
+        }
+      },
+      "VetMarkets.Programming.Common/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "VetMarkets.Models": "1.0.0"
+        },
+        "runtime": {
+          "VetMarkets.Programming.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VetMarkets.Data.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "VetMarkets.Data.Services.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VetMarkets.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VetMarkets.Programming.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
